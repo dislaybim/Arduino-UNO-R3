@@ -1,5 +1,5 @@
 //termômetro digital com DHT-11
-//O objeto desde o projeto é enviar os dados de um sensor de temperatura e umidade.
+//O objetivo desde o projeto é enviar os dados de um sensor de temperatura e umidade.
 
 #include <dht.h>
 
